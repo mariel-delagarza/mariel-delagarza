@@ -5,7 +5,7 @@ My name is Mariel and I'm looking for my first job as a junior dev. I'd prefer a
 :page_with_curl: [Download a pdf of my resume](https://drive.google.com/file/d/1RDWBr3ALA5OTK1wk-qGH3NQPBXRagD37/view)  
 :mailbox: Reach me at mariel.code@gmail.com  
 :baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
-😄 Pronouns: she/her/hers
+:cherry_blossom: Pronouns: she/her/hers
 
 
 | I'm working with      | I'm learning | I'm proficient in |
