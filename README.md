@@ -30,6 +30,14 @@ My name is Mariel and I'm looking for my first job as a junior dev. I'd prefer a
 | | :eight: Years of professional experience | 
 | | :heavy_plus_sign: Leadership experience
 
+### 📝 Latest articles from [dev.to](https://dev.to/mariel)
+
+* May 12 2020 [Getting your JSFiddle to work locally](https://dev.to/mariel/getting-your-jsfiddle-to-work-locally-44ib) 
+* May 11 2020 [Take care of yourself. Everyone else will deal.](https://dev.to/mariel/take-care-of-yourself-everyone-else-will-deal-1dp) 
+* Mar 17 2020 ["The response is not a valid JSON response" - and other things I don't get](https://dev.to/mariel/the-response-is-not-a-valid-json-response-and-other-things-i-don-t-get-41e3) 
+* Feb 12 2020 [Deploying to Heroku: HOW DOES IT WORK](https://dev.to/mariel/deploying-to-heroku-how-does-it-work-4dlc) 
+* Feb 05 2020 [Creating the Bones of a New Project](https://dev.to/mariel/creating-the-bones-of-a-new-project-2g0k) 
+
 
 <!--
 **mariel-delagarza/mariel-delagarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
