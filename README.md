@@ -1,6 +1,7 @@
 ## :wave: Hi there!
 My name is Mariel and I'm looking for my first job as a junior dev. I'd prefer a front end role, but I went through a full stack program so I have exposure to back end work. I love learning and I love building things. Most recently, I was the web development intern [@CSIS-iLab](https://github.com/CSIS-iLab). 
 
+Want to [work with me](https://drive.google.com/file/d/173pYO-kkGHbdBJrdKj3TCHCHPWTjxQG-/view?usp=sharing)?<br>
 :movie_camera: See [live demos](https://www.marieldotcode.com/csis-portfolio) of my in-production work  
 :page_with_curl: [Download a pdf of my resume](https://drive.google.com/file/d/1OCBVjHKV-4B-0AUlU-TRYlRv-AGgT5Ud/view)  
 :mailbox: Reach me at mariel.code@gmail.com  
