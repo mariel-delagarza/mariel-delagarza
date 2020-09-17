@@ -17,14 +17,13 @@ Want to [work with me](https://drive.google.com/file/d/173pYO-kkGHbdBJrdKj3TCHCH
 * Feb 05 2020 [Creating the Bones of a New Project](https://dev.to/mariel/creating-the-bones-of-a-new-project-2g0k) 
 <br>
 
-| I'm working with      | I'm learning | I'm proficient in |
-| ----------- | ----------- | ----------- |
-| :star: Highcharts.js   | :bulb: React    | :heavy_check_mark: Ruby
-| :star: Sass   | :bulb: D3.js   | :heavy_check_mark: JavaScript
-| :star: Vue.js |  | :heavy_check_mark: HTML/CSS
-| :star: Forestry| | :heavy_check_mark: Ruby on Rails
-| :star: Wordpress | | 
-| :star: Netlify | | 
+| I'm learning | I'm proficient in |
+| ----------- | ----------- |
+|:bulb: React | :heavy_check_mark: Ruby
+|:bulb: D3.js | :heavy_check_mark: JavaScript
+|:bulb: Vue.js | :heavy_check_mark: HTML/CSS | :heavy_check_mark: Highcharts.js
+|| :heavy_check_mark: Ruby on Rails
+
 <br>
 <br>
 
