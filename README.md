@@ -6,7 +6,7 @@ More about me:<br>
 :page_with_curl: [Download a pdf of my resume](https://drive.google.com/file/d/114M6SCusQErFSvJAV98gm6K55eh9zlyp/view?usp=sharing)  
 :mailbox: Reach me at mariel.code@gmail.com  
 :baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
-:cherry_blossom: Pronouns: she/her/hers
+:cherry_blossom: Pronouns: she/her/hers<br>
 :pencil: Dev.to: [@mariel](https://dev.to/mariel)
 
 
