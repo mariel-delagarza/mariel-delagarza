@@ -1,5 +1,5 @@
 ## :wave: Hi there!
-My name is Mariel. I love using code to help people tell stories. (I also love dogs and cookies.) I was the web development intern [@CSIS-iLab](https://github.com/CSIS-iLab) and now I'm a junior JS dev [@Viget](https://github.com/vigetlabs). 
+My name is Mariel. I love using code to help people tell their stories and do good things. (I also love dogs and cookies.) I was the web development intern [@CSIS-iLab](https://github.com/CSIS-iLab) and now I'm a junior JS dev [@Viget](https://github.com/vigetlabs). 
 
 More about me:<br>
 :movie_camera: See [live demos](https://www.marieldotcode.com/csis-portfolio) of my data viz work @ CSIS  
