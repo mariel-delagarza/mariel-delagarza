@@ -3,6 +3,7 @@ My name is Mariel. I love using code to help people tell their stories and do go
 
 More about me:<br>
 :movie_camera: See [live demos](https://www.marieldotcode.com/csis-portfolio) of my data viz work @ CSIS  
+:blue_heart: See [what we work on at Viget](https://www.viget.com/work/) 
 :page_with_curl: [Download a pdf of my resume](https://drive.google.com/file/d/114M6SCusQErFSvJAV98gm6K55eh9zlyp/view?usp=sharing)  
 :mailbox: Reach me at mariel.code@gmail.com  
 :baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
