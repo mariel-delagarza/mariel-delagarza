@@ -1,16 +1,14 @@
-### Hi there 👋
+## :wave: Hi there!
+My name is Mariel. I love using code to help people tell their stories and do good things. (I also love dogs and cookies.) 
+
+More about me:<br>
+:blue_heart: See [a timeline of my work on Polywork](https://www.polywork.com/mcat) <br>
+:page_with_curl: [See my resume](https://www.marieldotcode.com/resume)  
+:mailbox: Reach me at mariel.code@gmail.com  
+:baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
+:cherry_blossom: Pronouns: she/her/hers<br>
+
 
 <!--
 **mariel-delagarza/mariel-delagarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
