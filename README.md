@@ -2,7 +2,6 @@
 My name is Mariel. I love using code to help people tell their stories and do good things. (I also love dogs and cookies.) 
 
 More about me:<br>
-:blue_heart: See [a timeline of my work on Polywork](https://www.polywork.com/mcat) <br>
 :page_with_curl: [See my resume](https://www.marieldotcode.com/resume)  
 :mailbox: Reach me at mariel.code@gmail.com  
 :baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
