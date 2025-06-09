@@ -4,7 +4,7 @@ My name is Mariel. I love using code to help people tell their stories and do go
 More about me:<br>
 :page_with_curl: [See my resume](https://www.marieldotcode.com/resume)  
 :mailbox: Reach me at mariel.code@gmail.com  
-:baby_chick: Find me on Twitter [@mariel_code](https://twitter.com/mariel_code)  
+:baby_chick: Find me on Bluesky [@mariel.bsky.social]([https://twitter.com/mariel_code](https://bsky.app/profile/mariel.bsky.social))  
 :cherry_blossom: Pronouns: she/her/hers<br>
 
 
